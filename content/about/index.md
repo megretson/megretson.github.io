@@ -1,6 +1,7 @@
 +++
 date = "2016-11-05T21:05:33+05:30"
 title = "Hello there"
+type = "gallery"
 +++
 
 {{< figure src="circle_headshot.png" class="left" width="400"  >}}

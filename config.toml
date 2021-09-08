@@ -3,9 +3,16 @@ title = "megretson"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
+[taxonomies]
+   tag = "tags"
+
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = false
+
+  customCSS = ['css/custom.css']
+
+  tags =  ['academic', 'personal', 'artistic']
 
   # Set the animation style -- https://animate.style/
   # To disable animations, please remove or comment animationStyle parameter
@@ -22,3 +29,4 @@ languageCode = "en-us"
   [[params.navlinks]]
   name = "timeline/"
   url = "timeline/"
+
