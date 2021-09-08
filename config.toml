@@ -3,8 +3,6 @@ title = "megretson"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 
-[taxonomies]
-   tag = "tags"
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)

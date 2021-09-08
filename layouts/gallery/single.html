@@ -1,0 +1,23 @@
+{{ define "main" }}
+<h1>{{ .Page.Title }}</h1>
+<div class="tag-list">
+    <strong>Tags: </strong>
+    {{ range $i, $e := .Params.tags -}}
+        {{- if $i -}}, {{ end -}}
+        <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>
+    {{- end -}}
+</div>
+
+
+{{ if and (isset .Params "image") .Params.image }}
+    {{ $image := .Page.Resources.GetMatch .Params.image }}
+    {{ with $image }}
+        {{ $thumb := .Resize "1000x" }}
+        {{ printf `<img src="%s" alt="%s" class="img-responsive gallery-image">` $thumb.RelPermalink .Title | safeHTML }}
+    {{end}}
+{{ end }}
+
+{{ .Content }}
+{{ template "_internal/disqus.html" . }}
+
+{{ end }}
