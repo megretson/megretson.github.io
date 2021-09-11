@@ -28,3 +28,7 @@ languageCode = "en-us"
   name = "timeline/"
   url = "timeline/"
 
+  [[params.navlinks]]
+  name = "resume/"
+  url = "/Meg_Anderson_Resume_20210908.pdf"
+

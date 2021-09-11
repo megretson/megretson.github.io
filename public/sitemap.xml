@@ -4,6 +4,41 @@
     
         
         <url>
+            <loc>https://megretson.github.io/projects/pies/</loc>
+            <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://megretson.github.io/</loc>
+            <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://megretson.github.io/tags/personal/</loc>
+            <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://megretson.github.io/projects/</loc>
+            <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://megretson.github.io/tags/</loc>
+            <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>https://megretson.github.io/tags/academic/</loc>
             <lastmod>2020-05-13T00:00:00+00:00</lastmod>
         </url>
@@ -18,28 +53,7 @@
     
         
         <url>
-            <loc>https://megretson.github.io/</loc>
-            <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://megretson.github.io/projects/</loc>
-            <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>https://megretson.github.io/projects/quarantine-gothic/</loc>
-            <lastmod>2020-05-13T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://megretson.github.io/tags/</loc>
             <lastmod>2020-05-13T00:00:00+00:00</lastmod>
         </url>
         
@@ -60,6 +74,13 @@
     
         
         <url>
+            <loc>https://megretson.github.io/timeline/</loc>
+            <lastmod>2016-11-05T21:05:33+05:30</lastmod>
+        </url>
+        
+    
+        
+        <url>
             <loc>https://megretson.github.io/resume/</loc>
             <priority>0</priority>
         </url>
@@ -67,8 +88,7 @@
     
         
         <url>
-            <loc>https://megretson.github.io/timeline/</loc>
-            <priority>0</priority>
+            <loc>https://megretson.github.io/categories/</loc>
         </url>
         
     

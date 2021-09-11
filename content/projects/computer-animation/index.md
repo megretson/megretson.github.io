@@ -4,6 +4,7 @@ date = "2020-04-07"
 title = "Computer Animation"
 type = "gallery"
 tags = ["academic"]
+summary = "Computer animations from CSCI 420"
 +++
 
 This is a repository of some very embarrassing projects from my undergraduate computer animation course. Needless to say, computer animation did not end up being my passion. I do have an increased appreciation for anyone who does this, it feels like something for people who are a little insane. 

@@ -6,14 +6,26 @@
     <description>Recent content on megretson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://megretson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://megretson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>52 Pies</title>
+      <link>https://megretson.github.io/projects/pies/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://megretson.github.io/projects/pies/</guid>
+      <description>Jan. 2021 week 1: Jan. 4th - Jan. 10th Chocolate Caramel Banana Cream Pie, from Tartine: B
+   week 3: Jan. 18th - Jan. 24th Chicken Curry Pot Pie, from Washington Post: B
+   week 4: Jan. 25th - Jan. 31st Chocolate Pudding Pie, from Tartine, although not this exact recipe: C
+  Feb. 2021 week 5: Feb. 1st - Feb. 7th Strawberry Cream Cheese Poptarts, pie crust from King Arthur Flour, strawberry jam and cream cheese filling my own: A</description>
+    </item>
+    
     <item>
       <title>DS4SE</title>
       <link>https://megretson.github.io/projects/ds4se/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://megretson.github.io/projects/ds4se/</guid>
-      <description>DS4SE, or Data Science for Software Engineering is an exploration into using natural language processing to auto-generate source code. For this project, I wrote a script with Wils McCreight to scrape github repositories in order to generate training data for the model. We ultimately scraped 5 million files each of python, java, C, and javascript. I then created a schema for the storage of these data artifacts, and created a mongo db to host these intermediate steps and an architecture for storing intermediate calculation steps / tokenization during model generation to allow for traceability of model generation.</description>
+      <description>DS4SE, or Data Science for Software Engineering is an exploration into using natural language processing to auto-generate source code.</description>
     </item>
     
     <item>
@@ -22,7 +34,7 @@
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
       
       <guid>https://megretson.github.io/projects/quarantine-gothic/</guid>
-      <description>My final project for Gender, Sexuality, and Gaming. This is a game you can&amp;rsquo;t win, and it&amp;rsquo;s not particularly fun. Made in Twine using sugar cube. Check out the final product here.</description>
+      <description>A twine game made in the early pandemic, that you can&amp;rsquo;t win and isn&amp;rsquo;t fun.</description>
     </item>
     
     <item>
@@ -31,8 +43,7 @@
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
       
       <guid>https://megretson.github.io/projects/computer-animation/</guid>
-      <description>This is a repository of some very embarrassing projects from my undergraduate computer animation course. Needless to say, computer animation did not end up being my passion. I do have an increased appreciation for anyone who does this, it feels like something for people who are a little insane.
-project 1: solar system This was our first project, a little model of the solar system. It follows an intro maya tutorial.</description>
+      <description>Computer animations from CSCI 420</description>
     </item>
     
     <item>
@@ -47,12 +58,12 @@ I have had internet access since age 10, and started posting shitty middle schoo
     </item>
     
     <item>
-      <title></title>
+      <title>Timeline of significant events</title>
       <link>https://megretson.github.io/timeline/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
       
       <guid>https://megretson.github.io/timeline/</guid>
-      <description></description>
+      <description>A basic timing of jobs, positions, and awards</description>
     </item>
     
   </channel>
