@@ -4,7 +4,10 @@ date = "2021-01-01"
 title = "52 Pies"
 type = "gallery"
 tags = ["personal"]
+summary = "A project to bake a pie a week.... that's become more like a fortnightly or monthly pie."
 +++
+
+For 2021 I decided I wanted to intentionally improve a skill: pie crusts. And because I believe in shooting for the moon, I set the goal of makign a pie a week. This worked out great through most of the winter. I had just moved to Milwaukee and the winter kept me inside, enjoying heating up my oven. Then Spring hit, and I switched to hiking trails rather than staying inside making pies! My rate is closer to a pie every _two_ weeks, but here are links to all of the pies I have made thus far!  
 
 {{< timeline >}}
 
