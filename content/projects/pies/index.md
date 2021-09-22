@@ -27,7 +27,7 @@ For 2021 I decided I wanted to intentionally improve a skill: pie crusts. And be
     {{% /event %}}
     {{% event title="week 9: Mar. 1st - Mar. 7th" dates="Mar. 2021"%}}[Turkey Shepard's Pie with Cauliflower Mash](https://www.myrecipes.com/recipe/turkey-pies-with-mashed-potato-asiago-topping), originally from Cooking Light: A
     {{% /event %}}
-    {{% event title="week 10: Mar. 8th - Mar. 14th" dates=""%}}[Tomato Ricotta Tart](https://www.myrecipes.com/recipe/tomato-ricotta-tart), originally from Cooking Light C
+    {{% event title="week 10: Mar. 8th - Mar. 14th" dates=""%}}[Tomato Ricotta Tart](https://www.myrecipes.com/recipe/tomato-ricotta-tart), originally from Cooking Light: C
     {{% /event %}}
     {{% event title="week 11: Mar. 15th - Mar. 21st" dates=""%}}[Earl Gray Caramel Tart](https://www.epicurious.com/recipes/food/views/caramel-earl-grey-custard-pie-in-gingersnap-crumb-crust-mcdowell), from The Book on Pie: D
     {{% /event %}}
@@ -66,8 +66,9 @@ For 2021 I decided I wanted to intentionally improve a skill: pie crusts. And be
     {{% event title="week 33: Aug. 16th - Aug. 22nd" dates=""%}} [Nectarine, Mascarpone, and Gingersnap Tart](https://smittenkitchen.com/2008/07/nectarine-mascarpone-and-gingersnap-tart/), from Smitten Kitchen: A {{% /event %}}
     {{% event title="week 34: Aug. 23rd - Aug. 29th" dates=""%}}{{% /event %}}
     {{% event title="week 35: Aug. 30th - Sep. 5th" dates=""%}}{{% /event %}}
-    {{% event title="week 36: Sep. 6th - Sep. 12th" dates="Sep. 2021"%}}{{% /event %}}
-    {{% event title="week 37: Sep. 13th - Sep. 19th" dates=""%}}{{% /event %}}
+    {{% event title="week 36: Sep. 6th - Sep. 12th" dates="Sep. 2021"%}}[Mushroom Bourguignon](https://smittenkitchen.com/2009/01/mushroom-bourguignon/) Mini Pies in a [King Arthur Flour crust](https://www.kingarthurbaking.com/recipes/all-butter-pie-crust-recipe), filling from Smitten Kitchen: B+
+    {{% /event %}}
+    {{% event title="week 37: Sep. 13th - Sep. 19th" dates=""%}}[Black Bottom Oatmeal Pie](https://smittenkitchen.com/2015/03/black-bottom-oatmeal-pie/), from Smitten Kitchen: B{{% /event %}}
     {{% event title="week 38: Sep. 20th - Sep. 26th" dates=""%}}{{% /event %}}
     {{% event title="week 39: Sep. 27th - Oct. 3rd" dates=""%}}{{% /event %}}
     {{% event title="week 40: Oct. 4th - Oct. 10th" dates="Oct. 2021"%}}{{% /event %}}
