@@ -1,7 +1,8 @@
 +++
-image = "sun-flower.png"
+image = "sunflower.jpg"
 date = "2020-09-14"
-title = "Sun Flower"
+title = "Sunflower"
 type = "gallery"
 embroidered-by = ["Meg"]
 +++
+State flower of Kansas
