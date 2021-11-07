@@ -8,7 +8,7 @@ summary = "A basic timing of jobs, positions, and awards"
 {{< timeline >}}
     {{% event title="Started at GE Healthcare, in Milwaukee WI" dates="Jan. 2021" %}}  
     {{% /event %}}
-    {{% event title="Graduated from William & Mary with Latin Honors" dates="May 2020"%}} hello
+    {{% event title="Graduated from William & Mary with Latin Honors" dates="May 2020"%}}
     {{% /event %}}
     {{% event title="Awarded Bob & Debbie Noonan CS Departmental Award" dates="May 2020"%}} 
     {{% /event %}}
