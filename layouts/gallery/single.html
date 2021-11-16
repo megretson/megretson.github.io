@@ -1,5 +1,7 @@
 {{ define "main" }}
 <h1>{{ .Page.Title }}</h1>
+
+{{ if and (isset .Params "tags") .Params.tags }}
 <div class="tag-list">
     <strong>Tags: </strong>
     {{ range $i, $e := .Params.tags -}}
@@ -7,6 +9,17 @@
         <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>
     {{- end -}}
 </div>
+{{ end }}
+
+{{ if .Params.embroideredBy }}
+<div class="tag-list">
+    <strong>Embroidered by: </strong>
+    {{ range $i, $e := .Params.embroideredBy }}
+        {{- if $i -}}, {{ end -}}
+        {{ $e }}
+    {{- end -}}
+</div>
+{{ end }}
 
 
 {{ if and (isset .Params "image") .Params.image }}

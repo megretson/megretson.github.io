@@ -22,7 +22,7 @@ summary = "A basic timing of jobs, positions, and awards"
     {{% /event %}}
     {{% event title="Started at William & Mary IT " dates="Apr. 2018"%}}  
     {{% /event %}}
-    {{% event title="Started as a William & Mary CS Department Lab Consultant" dates=""%}}  
+    {{% event title="Started as a William & Mary CS Department Lab Consultant" dates="Apr. 2018"%}}  
     {{% /event %}}
     {{% event title="Started at Derdack GMBH" dates="May 2018"%}}  
     {{% /event %}}
@@ -32,6 +32,6 @@ summary = "A basic timing of jobs, positions, and awards"
     {{% /event %}}
     {{% event title="Elected to Hackathon Organizing Chair of ACM @ WM" dates="Apr. 2017"%}}  
     {{% /event %}}
-    {{% event title="Started at William & Mary " dates="Aug. 2016"%}}  
+    {{% event title="Started at William & Mary" dates="Aug. 2016"%}}  
     {{% /event %}}
 {{< /timeline >}}

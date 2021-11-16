@@ -1,7 +1,5 @@
-<div class="post">
-  <p>
-      <div class="date">{{ .Get "dates" }}</div>    
-      <h2>{{ .Get "title" }}</h2>
-      {{ .Inner }}
-  </p>
+<div class="timeline-item" date-is="20-07-15">
+  <div class="timeline-date">{{ .Get "dates" }}</div>
+  <h3>{{ .Get "title" }}</h3>
+  {{ .Inner }}
 </div>

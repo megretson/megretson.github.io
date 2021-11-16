@@ -1,8 +1,8 @@
 +++
-image = "indian-paint-brush.jpg"
+image = "indian_paint_brush.jpg"
 date = "2020-09-14"
 title = "Indian Paint Brush"
 type = "gallery"
-embroidered-by = ["Meg"]
+embroideredBy = ["Meg"]
 +++
 State flower of Wyoming
