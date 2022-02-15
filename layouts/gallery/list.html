@@ -16,8 +16,20 @@
             <a href="{{ .Permalink }}" title="{{ .Title }}">
             {{ $image := .Page.Resources.GetMatch .Params.image }}
             {{ with $image }}
+                {{ $orientation := 1 }}
                 {{ $thumb := .Resize "400x" }}
-                <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
+                
+                <!-- {{ with .Exif }}
+                    {{ $orientation = .Tags.Orientation }}
+                    {{if eq $orientation 6}}
+                        {{ $thumb := $image.Resize "400x r270" }}
+                    {{else}}
+                        {{ $thumb := $image.Resize "400x r90" }}
+                    {{end}}
+                {{end}} -->
+
+                <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive gallery-image-rotated">
+      
             {{end}}
             </a>
         {{ end }}
