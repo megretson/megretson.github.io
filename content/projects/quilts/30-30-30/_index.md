@@ -1,11 +1,13 @@
 +++
-image = "grid.png"
+image = "30x30_grid.jpg"
 date = "2025-02-01"
 title = "Var Gallery 30 x 30 x 30"
 type = "gallery"
 tags = ["personal", "artistic"]
 summary = "Quilting projects"
 +++
+
+{{< figure src="30x30_grid.jpg" title="30×30x30 Final Grid" >}}
 
 My participation in Var Gallery's 30 x 30 x 30 exhibit. 
 

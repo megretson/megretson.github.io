@@ -1,8 +1,14 @@
 +++
-image = "grid.png"
+image = "MargaretAnderson20.jpg"
 date = "2025-01-20"
 title = "Var Gallery 30 x 30 x 30 Day 20"
 type = "gallery"
 tags = ["personal", "artistic"]
 summary = "Quilting projects"
 +++
+
+Day: 20
+
+Event: Trump inauguration
+
+Quilt Block: One Patch
