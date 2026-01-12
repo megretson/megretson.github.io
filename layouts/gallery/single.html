@@ -1,32 +1,21 @@
 {{ define "main" }}
 <h1>{{ .Page.Title }}</h1>
 
-{{ if and (isset .Params "tags") .Params.tags }}
-<div class="tag-list">
-    <strong>Tags: </strong>
-    {{ range $i, $e := .Params.tags -}}
-        {{- if $i -}}, {{ end -}}
-        <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>
-    {{- end -}}
-</div>
-{{ end }}
-
-{{ if .Params.embroideredBy }}
-<div class="tag-list">
-    <strong>Embroidered by: </strong>
-    {{ range $i, $e := .Params.embroideredBy }}
-        {{- if $i -}}, {{ end -}}
-        {{ $e }}
-    {{- end -}}
-</div>
-{{ end }}
-
-
 {{ if and (isset .Params "image") .Params.image }}
     {{ $image := .Page.Resources.GetMatch .Params.image }}
     {{ with $image }}
-        {{ $thumb := .Resize "1000x" }}
-        {{ printf `<img src="%s" alt="%s" class="img-responsive gallery-image">` $thumb.RelPermalink .Title | safeHTML }}
+        {{ $.Scratch.Set "thumb" ($image.Resize "1000x") }}
+        {{ with .Exif }}
+            {{ $orientation := .Tags.Orientation | default 1 }}
+            {{ if eq $orientation 6 }}
+                {{ $.Scratch.Set "thumb" ($image.Resize "1000x r270") }}
+            {{ else if eq $orientation 8 }}
+                {{ $.Scratch.Set "thumb" ($image.Resize "1000x r90") }}
+            {{ else if eq $orientation 3 }}
+                {{ $.Scratch.Set "thumb" ($image.Resize "1000x r180") }}
+            {{ end }}
+        {{ end }}
+        {{ printf `<img src="%s" alt="%s" class="img-responsive gallery-image">` ($.Scratch.Get "thumb").RelPermalink .Title | safeHTML }}
     {{end}}
 {{ end }}
 

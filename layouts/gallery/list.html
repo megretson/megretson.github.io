@@ -1,35 +1,25 @@
 {{ define "main" }}
 <h1>{{ .Page.Title }}</h1>
-<div class="tag-list">
-    <strong>Tags: </strong>
-    {{ range $i, $e := .Site.Params.tags -}}
-        {{- if $i -}}, {{ end -}}
-        <a href='{{ "/tags/" | relLangURL }}{{ . | urlize }}'>{{ $e | humanize }}</a>
-    {{- end -}}
-</div>
 {{ .Content }}
-
-
 <div class="image-grid">
-    {{ range sort .Data.Pages "Date" "desc" }}
+    {{ range sort .Pages "Date" "desc" }}
         {{ if and (isset .Params "image") .Params.image }}
             <a href="{{ .Permalink }}" title="{{ .Title }}">
             {{ $image := .Page.Resources.GetMatch .Params.image }}
             {{ with $image }}
-                {{ $orientation := 1 }}
-                {{ $thumb := .Resize "400x" }}
-                
-                <!-- {{ with .Exif }}
-                    {{ $orientation = .Tags.Orientation }}
-                    {{if eq $orientation 6}}
-                        {{ $thumb := $image.Resize "400x r270" }}
-                    {{else}}
-                        {{ $thumb := $image.Resize "400x r90" }}
-                    {{end}}
-                {{end}} -->
-
-                <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive gallery-image-rotated">
-      
+                {{/* default thumb */}}
+                {{ $.Scratch.Set "thumb" ($image.Resize "400x") }}
+                {{ with .Exif }}
+                    {{ $orientation := .Tags.Orientation | default 1 }}
+                    {{ if eq $orientation 6 }}
+                        {{ $.Scratch.Set "thumb" ($image.Resize "400x r270") }}
+                    {{ else if eq $orientation 8 }}
+                        {{ $.Scratch.Set "thumb" ($image.Resize "400x r90") }}
+                    {{ else if eq $orientation 3 }}
+                        {{ $.Scratch.Set "thumb" ($image.Resize "400x r180") }}
+                    {{ end }}
+                {{ end }}
+                <img src="{{ ($.Scratch.Get "thumb").RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
             {{end}}
             </a>
         {{ end }}

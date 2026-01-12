@@ -1,6 +1,6 @@
 +++
 image = "tie_quilt_detail.jpeg"
-date = "2021-08-20"
+date = "2023-05-08"
 title = "Major's Quilt"
 type = "post"
 tags = ["artistic", "personal"]

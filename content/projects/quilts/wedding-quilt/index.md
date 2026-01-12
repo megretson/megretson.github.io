@@ -1,12 +1,12 @@
 +++
-image = "oxford-quilt.png"
-date = "2021-08-20"
-title = "Oxford Quilt"
+image = "finished_quilt.jpeg"
+date = "2023-05-07"
+title = "Wedding Quilt"
 type = "post"
 tags = ["artistic"]
-summary = "My first quilt, way too ambitious, but fondly remembered"
+summary = "A quilt made for my friends' wedding"
 +++
 
-{{< figure src="oxford-quilt.jpg" class="left" width="400" >}}
+{{< figure src="finished_quilt.jpeg" class="left" width="400" >}}
 
-This was my first quilt, and I should really take a better photo of. It is twin size (which I have since learned is very ambitious), and it is made entirely out of scrap oxford shirts. They were all pulled from my closet, my dad's closet, and the local goodwill. It is a take on a quilt from the book _Modern Quilts_, so I also operated without a pattern here. You live and you learn, but I still love this quilt. 
+ I made this quilt as a wedding present to friends. I officiated their wedding, and the embroidery is a quote reading "come woe, come weal, come what may." The color palette is from their wedding colors: green and pink. The pattern is [the Summer Solstice Quilt Pattern](https://www.alderwood-studio.com/shop/p/summersolstice-quilt-pattern) from Alderwood Studio. I had it professionally long-armed because I did not have access to a long-arm at the time. It felt less risky to make someone else's pattern, but ultimately I regret not using my own pattern for this. 

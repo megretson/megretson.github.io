@@ -2,228 +2,585 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>megretson</title>
-    <link>https://megretson.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on megretson</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://megretson.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Intersection Quilt</title>
-      <link>https://megretson.github.io/projects/quilts/intersection-quilt/</link>
-      <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/intersection-quilt/</guid>
-      <description>My smallest quilt, intended to be a skill focus on cutting and, well, straight lines</description>
+      <title>Var Gallery 30 x 30 x 30 Day 30</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-30/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-30/</guid>
+      <description>Quilting projects</description>
     </item>
-    
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 29</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-29/</link>
+      <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-29/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 28</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-28/</link>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-28/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 27</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-27/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-27/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 26</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-26/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-26/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 25</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-25/</link>
+      <pubDate>Sat, 25 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-25/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 24</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-24/</link>
+      <pubDate>Fri, 24 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-24/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 23</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-23/</link>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-23/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 22</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-22/</link>
+      <pubDate>Wed, 22 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-22/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 21</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-21/</link>
+      <pubDate>Tue, 21 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-21/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 20</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-20/</link>
+      <pubDate>Mon, 20 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-20/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 19</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-19/</link>
+      <pubDate>Sun, 19 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-19/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 18</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-18/</link>
+      <pubDate>Sat, 18 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-18/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 17</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-17/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-17/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 16</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-16/</link>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-16/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 15</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-15/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-15/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 14</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-14/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-14/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 13</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-13/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-13/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 12</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-12/</link>
+      <pubDate>Sun, 12 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-12/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 11</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-11/</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-11/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 10</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-10/</link>
+      <pubDate>Fri, 10 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-10/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 9</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-9/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-9/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 8</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-8/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-8/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 7</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-7/</link>
+      <pubDate>Tue, 07 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-7/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 6</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-6/</link>
+      <pubDate>Mon, 06 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-6/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 5</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-5/</link>
+      <pubDate>Sun, 05 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-5/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 4</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-4/</link>
+      <pubDate>Sat, 04 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-4/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 3</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-3/</link>
+      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-3/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 2</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-2/</link>
+      <pubDate>Thu, 02 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-2/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Var Gallery 30 x 30 x 30 Day 1</title>
+      <link>http://localhost:1313/projects/quilts/30-30-30/day-1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/30-30-30/day-1/</guid>
+      <description>Quilting projects</description>
+    </item>
+    <item>
+      <title>Kandinsky Quilt</title>
+      <link>http://localhost:1313/projects/quilts/kandinsky-quilt/</link>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/kandinsky-quilt/</guid>
+      <description>A traded quilt</description>
+    </item>
+    <item>
+      <title>Sun Burst Quilt</title>
+      <link>http://localhost:1313/projects/quilts/sun-quilt/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/sun-quilt/</guid>
+      <description>An improv quilt</description>
+    </item>
+    <item>
+      <title>The Trellis Quilt</title>
+      <link>http://localhost:1313/projects/quilts/trellis-quilt/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/trellis-quilt/</guid>
+      <description>An improv quilt</description>
+    </item>
+    <item>
+      <title>Wedding Quilt</title>
+      <link>http://localhost:1313/projects/quilts/wedding-quilt/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/wedding-quilt/</guid>
+      <description>A quilt made for my friends&amp;rsquo; wedding</description>
+    </item>
+    <item>
+      <title>Window Quilt</title>
+      <link>http://localhost:1313/projects/quilts/window-quilt/</link>
+      <pubDate>Sun, 15 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/window-quilt/</guid>
+      <description>An improv quilt</description>
+    </item>
     <item>
       <title>Oxford Quilt</title>
-      <link>https://megretson.github.io/projects/quilts/oxford-quilt/</link>
+      <link>http://localhost:1313/projects/quilts/oxford-quilt/</link>
       <pubDate>Fri, 20 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/oxford-quilt/</guid>
+      <guid>http://localhost:1313/projects/quilts/oxford-quilt/</guid>
       <description>My first quilt, way too ambitious, but fondly remembered</description>
     </item>
-    
     <item>
       <title>52 Pies</title>
-      <link>https://megretson.github.io/projects/pies/</link>
+      <link>http://localhost:1313/projects/pies/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/pies/</guid>
+      <guid>http://localhost:1313/projects/pies/</guid>
       <description>A project to bake a pie a week&amp;hellip;. that&amp;rsquo;s become more like a fortnightly or monthly pie.</description>
     </item>
-    
+    <item>
+      <title>Apple Blossom</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/apple-blossom/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/apple-blossom/</guid>
+      <description>&lt;p&gt;State flower of Michigan, Arkansas&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bitter Root</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/bitterroot/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/bitterroot/</guid>
+      <description>&lt;p&gt;State flower of Montana&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Black Eyed Susan</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/black-eyed-susan/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/black-eyed-susan/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/black-eyed-susan/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/black-eyed-susan/</guid>
+      <description>&lt;p&gt;State flower of Maryland&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Bluebonnet</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/bluebonnet/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/bluebonnet/</guid>
+      <description>&lt;p&gt;State flower of Texas&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cactus Flower</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/cactus-flower/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/cactus-flower/</guid>
+      <description>&lt;p&gt;State flower of Arizona&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Camellia</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/camellia/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/camellia/</guid>
+      <description>&lt;p&gt;State flower of Alabama&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Carnation</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/carnation/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/carnation/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/carnation/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/carnation/</guid>
+      <description>&lt;p&gt;State flower of Ohio&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Cherokee Rose</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/cherokee-rose/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/cherokee-rose/</guid>
+      <description>&lt;p&gt;State flower of Georgia&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Columbine</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/columbine/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/columbine/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/columbine/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/columbine/</guid>
+      <description>&lt;p&gt;State flower of Colorado&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dogwood</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/dogwood/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/dogwood/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/dogwood/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/dogwood/</guid>
+      <description>&lt;p&gt;State flower of North Carolina, Virginia&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Forget Me Not</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/forget-me-not/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/forget-me-not/</guid>
+      <description>&lt;p&gt;State flower of Alaska&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Goldenrod</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/goldenrod/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/goldenrod/</guid>
+      <description>&lt;p&gt;State flower of Nebraska, Kentucky&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hawthorn</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/hawthorn/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/hawthorn/</guid>
+      <description>&lt;p&gt;State flower of Missouri&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hibiscus</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/hibiscus/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/hibiscus/</guid>
+      <description>&lt;p&gt;State flower of Hawaii&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Indian Paint Brush</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/indian-paint-brush/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/indian-paint-brush/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/indian-paint-brush/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/indian-paint-brush/</guid>
+      <description>&lt;p&gt;State flower of Wyoming&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Iris</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/iris/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/iris/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/iris/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/iris/</guid>
+      <description>&lt;p&gt;State flower of Tennessee&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Jessamine</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/jessamine/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/jessamine/</guid>
+      <description>&lt;p&gt;State flower of South Carolina&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lady Slipper</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/lady-slipper/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/lady-slipper/</guid>
+      <description>&lt;p&gt;State flower of Minnesota&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lilac</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/lilac/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/lilac/</guid>
+      <description>&lt;p&gt;State flower of New Hampshire&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Magnolia</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/magnolia/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/magnolia/</guid>
+      <description>&lt;p&gt;State flower of Louisiana, Mississippi&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mayflower</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/mayflower/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/mayflower/</guid>
+      <description>&lt;p&gt;State flower of Massachusetts&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Mistletoe</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/mistletoe/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/mistletoe/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/mistletoe/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/mistletoe/</guid>
+      <description>&lt;p&gt;State flower of Oklahoma&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Mt Laurel</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/mt-laurel/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/mt-laurel/</guid>
+      <description>&lt;p&gt;State flower of Connecticut, Pennsylvania&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Orange Blossom</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/orange-blossom/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/orange-blossom/</guid>
+      <description>&lt;p&gt;State flower of Florida&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Oregon Grape</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/oregon-grape/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/oregon-grape/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/oregon-grape/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/oregon-grape/</guid>
+      <description>&lt;p&gt;State flower of Oregon&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Pasque Flower</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/pasque-flower/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/pasque-flower/</guid>
+      <description>&lt;p&gt;State flower of South Dakota&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Peach Blossom</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/peach-blossom/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/peach-blossom/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/peach-blossom/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/peach-blossom/</guid>
+      <description>&lt;p&gt;State flower of Delaware&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Peony</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/peony/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/peony/</guid>
+      <description>&lt;p&gt;State flower of Indiana&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Poppy</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/poppy/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/poppy/</guid>
+      <description>&lt;p&gt;State flower of California&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Prairie Rose</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/prairie-rose/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/prairie-rose/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/prairie-rose/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/prairie-rose/</guid>
+      <description>&lt;p&gt;State flower of North Dakota, Iowa&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Red Clover</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/red-clover/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/red-clover/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/red-clover/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/red-clover/</guid>
+      <description>&lt;p&gt;State flower of Vermont&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Rhododendron</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/rhododendron/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/rhododendron/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/rhododendron/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/rhododendron/</guid>
+      <description>&lt;p&gt;State flower of West Virginia, Washington&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Rose</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/rose/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/rose/</guid>
+      <description>&lt;p&gt;State flower of Iowa, New York&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sage Brush</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/sage-brush/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/sage-brush/</guid>
+      <description>&lt;p&gt;State flower of Nevada&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Sego Lily</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/sego-lily/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/sego-lily/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/sego-lily/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/sego-lily/</guid>
+      <description>&lt;p&gt;State flower of  Utah&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Sun Flower</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/sunflower/</link>
+      <title>Sunflower</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/sunflower/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/sunflower/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/sunflower/</guid>
+      <description>&lt;p&gt;State flower of Kansas&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>Syringa</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/syringa/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/syringa/</guid>
+      <description>&lt;p&gt;State flower of Idaho&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Violet</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/violet/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/violet/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/violet/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/violet/</guid>
+      <description>&lt;p&gt;State flower of Rhode Island, Illinois, New Jersey, Wisconsin&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title>White Pine Cone</title>
+      <link>http://localhost:1313/projects/quilts/state-quilt/white-pine-cone/</link>
+      <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/white-pine-cone/</guid>
+      <description>&lt;p&gt;State flower of Maine&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Yucca</title>
-      <link>https://megretson.github.io/projects/quilts/state-quilt/yucca/</link>
+      <link>http://localhost:1313/projects/quilts/state-quilt/yucca/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quilts/state-quilt/yucca/</guid>
-      <description></description>
+      <guid>http://localhost:1313/projects/quilts/state-quilt/yucca/</guid>
+      <description>&lt;p&gt;State flower of New Mexico&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>DS4SE</title>
-      <link>https://megretson.github.io/projects/ds4se/</link>
+      <link>http://localhost:1313/projects/ds4se/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/ds4se/</guid>
+      <guid>http://localhost:1313/projects/ds4se/</guid>
       <description>DS4SE, or Data Science for Software Engineering is an exploration into using natural language processing to auto-generate source code.</description>
     </item>
-    
     <item>
       <title>Quarantine Gothic</title>
-      <link>https://megretson.github.io/projects/quarantine-gothic/</link>
+      <link>http://localhost:1313/projects/quarantine-gothic/</link>
       <pubDate>Wed, 13 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/quarantine-gothic/</guid>
+      <guid>http://localhost:1313/projects/quarantine-gothic/</guid>
       <description>A twine game made in the early pandemic, that you can&amp;rsquo;t win and isn&amp;rsquo;t fun.</description>
     </item>
-    
     <item>
       <title>Computer Animation</title>
-      <link>https://megretson.github.io/projects/computer-animation/</link>
+      <link>http://localhost:1313/projects/computer-animation/</link>
       <pubDate>Tue, 07 Apr 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://megretson.github.io/projects/computer-animation/</guid>
+      <guid>http://localhost:1313/projects/computer-animation/</guid>
       <description>Computer animations from CSCI 420</description>
     </item>
-    
     <item>
       <title>Hello there</title>
-      <link>https://megretson.github.io/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
-      <guid>https://megretson.github.io/about/</guid>
-      <description>about My name is (Meg) Anderson. I am an Edison Engineer at GE Healthcare, a student, a scientist, and artist. I am an alumni of William &amp;amp; Mary, &amp;lsquo;20.
-a disclaimer on my internet presence All opinions expressed are (or were at one point) my own. My beliefs do not represent those of my employers.
-I have had internet access since age 10, and started posting shitty middle school hot-takes on facebook shortly thereafter.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h2 id=&#34;about&#34;&gt;about&lt;/h2&gt; &lt;p&gt;My name is (Meg) Anderson. I am an Edison Engineer at GE Healthcare, a student, a scientist, and artist. I am an alumni of William &amp;amp; Mary, &amp;lsquo;20.&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-disclaimer-on-my-internet-presence&#34;&gt;a disclaimer on my internet presence&lt;/h2&gt; &lt;p&gt;All opinions expressed are (or were at one point) my own. My beliefs do not represent those of my employers.&lt;/p&gt;&#xA;&lt;p&gt;I have had internet access since age 10, and started posting shitty middle school hot-takes on facebook shortly thereafter. In retrospect, I had free reign across the internet &lt;em&gt;way&lt;/em&gt; too early. Thus, I disavow anything I posted before I was 18.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Timeline of significant events</title>
-      <link>https://megretson.github.io/timeline/</link>
+      <link>http://localhost:1313/timeline/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
-      <guid>https://megretson.github.io/timeline/</guid>
+      <guid>http://localhost:1313/timeline/</guid>
       <description>A basic timing of jobs, positions, and awards</description>
     </item>
-    
   </channel>
 </rss>

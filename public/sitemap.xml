@@ -4,238 +4,664 @@
     
         
         <url>
-            <loc>https://megretson.github.io/tags/artistic/</loc>
+            <loc>http://localhost:1313/tags/artistic/</loc>
+            <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/</loc>
+            <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/personal/</loc>
+            <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/</loc>
+            <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/</loc>
+            <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/</loc>
+            <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-30/</loc>
+            <lastmod>2025-01-30T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-29/</loc>
+            <lastmod>2025-01-29T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-28/</loc>
+            <lastmod>2025-01-28T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-27/</loc>
+            <lastmod>2025-01-27T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-26/</loc>
+            <lastmod>2025-01-26T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-25/</loc>
+            <lastmod>2025-01-25T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-24/</loc>
+            <lastmod>2025-01-24T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-23/</loc>
+            <lastmod>2025-01-23T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-22/</loc>
+            <lastmod>2025-01-22T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-21/</loc>
+            <lastmod>2025-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-20/</loc>
+            <lastmod>2025-01-20T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-19/</loc>
+            <lastmod>2025-01-19T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-18/</loc>
+            <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-17/</loc>
+            <lastmod>2025-01-17T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-16/</loc>
+            <lastmod>2025-01-16T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-15/</loc>
+            <lastmod>2025-01-15T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-14/</loc>
+            <lastmod>2025-01-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-13/</loc>
+            <lastmod>2025-01-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-12/</loc>
+            <lastmod>2025-01-12T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-11/</loc>
+            <lastmod>2025-01-11T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-10/</loc>
+            <lastmod>2025-01-10T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-9/</loc>
+            <lastmod>2025-01-09T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-8/</loc>
+            <lastmod>2025-01-08T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-7/</loc>
+            <lastmod>2025-01-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-6/</loc>
+            <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-5/</loc>
+            <lastmod>2025-01-05T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-4/</loc>
+            <lastmod>2025-01-04T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-3/</loc>
+            <lastmod>2025-01-03T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-2/</loc>
+            <lastmod>2025-01-02T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/30-30-30/day-1/</loc>
+            <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/kandinsky-quilt/</loc>
+            <lastmod>2024-07-06T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/sun-quilt/</loc>
+            <lastmod>2023-12-04T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/trellis-quilt/</loc>
+            <lastmod>2023-06-01T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/majors-quilt/</loc>
+            <lastmod>2023-05-08T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/wedding-quilt/</loc>
+            <lastmod>2023-05-07T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/window-quilt/</loc>
+            <lastmod>2023-01-15T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/</loc>
+            <lastmod>2021-11-24T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/</loc>
             <lastmod>2021-09-13T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/</loc>
-            <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://megretson.github.io/tags/personal/</loc>
-            <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://megretson.github.io/projects/</loc>
-            <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://megretson.github.io/projects/quilts/</loc>
-            <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/</loc>
-            <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://megretson.github.io/tags/</loc>
-            <lastmod>2021-09-13T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://megretson.github.io/projects/quilts/intersection-quilt/</loc>
+            <loc>http://localhost:1313/projects/quilts/intersection-quilt/</loc>
             <lastmod>2021-08-20T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/oxford-quilt/</loc>
+            <loc>http://localhost:1313/projects/quilts/oxford-quilt/</loc>
             <lastmod>2021-08-20T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/pies/</loc>
+            <loc>http://localhost:1313/projects/pies/</loc>
             <lastmod>2021-01-01T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/black-eyed-susan/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/apple-blossom/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/carnation/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/bitterroot/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/columbine/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/black-eyed-susan/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/dogwood/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/bluebonnet/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/indian-paint-brush/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/cactus-flower/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/iris/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/camellia/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/mistletoe/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/carnation/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/oregon-grape/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/cherokee-rose/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/peach-blossom/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/columbine/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/prairie-rose/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/dogwood/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/red-clover/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/forget-me-not/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/rhododendron/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/goldenrod/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/sego-lily/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/hawthorn/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/sunflower/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/hibiscus/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/violet/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/indian-paint-brush/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quilts/state-quilt/yucca/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/iris/</loc>
             <lastmod>2020-09-14T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/tags/academic/</loc>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/jessamine/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/lady-slipper/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/lilac/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/magnolia/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/mayflower/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/mistletoe/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/mt-laurel/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/orange-blossom/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/oregon-grape/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/pasque-flower/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/peach-blossom/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/peony/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/poppy/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/prairie-rose/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/red-clover/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/rhododendron/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/rose/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/sage-brush/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/sego-lily/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/sunflower/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/syringa/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/violet/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/white-pine-cone/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/projects/quilts/state-quilt/yucca/</loc>
+            <lastmod>2020-09-14T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>http://localhost:1313/tags/academic/</loc>
             <lastmod>2020-05-13T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/ds4se/</loc>
+            <loc>http://localhost:1313/projects/ds4se/</loc>
             <lastmod>2020-05-13T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/quarantine-gothic/</loc>
+            <loc>http://localhost:1313/projects/quarantine-gothic/</loc>
             <lastmod>2020-05-13T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/projects/computer-animation/</loc>
+            <loc>http://localhost:1313/projects/computer-animation/</loc>
             <lastmod>2020-04-07T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/about/</loc>
+            <loc>http://localhost:1313/about/</loc>
             <lastmod>2016-11-05T21:05:33+05:30</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/timeline/</loc>
+            <loc>http://localhost:1313/timeline/</loc>
             <lastmod>2016-11-05T21:05:33+05:30</lastmod>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/resume/</loc>
-            <priority>0</priority>
+            <loc>http://localhost:1313/resume/</loc>
         </url>
         
     
         
         <url>
-            <loc>https://megretson.github.io/categories/</loc>
+            <loc>http://localhost:1313/categories/</loc>
         </url>
         
     
