@@ -11,7 +11,7 @@ My name is (Meg) Anderson. You can generally find me across platforms @megretson
 <h1>Recent projects</h1>
 
 <div class="posts-list">
-{{ with .Site.GetPage "/projects" }}
+{{ with .Site.GetPage "/projects/quilts" }}
     {{ range first 3 (sort .Data.Pages "Date" "desc" (where .Pages ".Params.private" "!=" true))}}
         <div class="post">
             <p>

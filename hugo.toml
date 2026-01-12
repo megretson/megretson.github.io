@@ -23,12 +23,12 @@ languageCode = "en-us"
   [[params.navlinks]]
   name = "projects/"
   url = "projects/"
-  
+
   [[params.navlinks]]
-  name = "timeline/"
-  url = "timeline/"
+  name = "quilts/"
+  url = "projects/quilts/"
 
   [[params.navlinks]]
   name = "resume/"
-  url = "/Meg_Anderson_Resume_20210908.pdf"
+  url = "/Meg_Anderson_Resume_20250728.pdf"
 

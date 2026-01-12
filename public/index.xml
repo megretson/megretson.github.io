@@ -575,12 +575,5 @@
       <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;about&#34;&gt;about&lt;/h2&gt; &lt;p&gt;My name is (Meg) Anderson. I am an Edison Engineer at GE Healthcare, a student, a scientist, and artist. I am an alumni of William &amp;amp; Mary, &amp;lsquo;20.&lt;/p&gt;&#xA;&lt;h2 id=&#34;a-disclaimer-on-my-internet-presence&#34;&gt;a disclaimer on my internet presence&lt;/h2&gt; &lt;p&gt;All opinions expressed are (or were at one point) my own. My beliefs do not represent those of my employers.&lt;/p&gt;&#xA;&lt;p&gt;I have had internet access since age 10, and started posting shitty middle school hot-takes on facebook shortly thereafter. In retrospect, I had free reign across the internet &lt;em&gt;way&lt;/em&gt; too early. Thus, I disavow anything I posted before I was 18.&lt;/p&gt;</description>
     </item>
-    <item>
-      <title>Timeline of significant events</title>
-      <link>http://localhost:1313/timeline/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      <guid>http://localhost:1313/timeline/</guid>
-      <description>A basic timing of jobs, positions, and awards</description>
-    </item>
   </channel>
 </rss>
